@@ -1,0 +1,16 @@
+{
+  "name": "belajar-socket",
+  "version": "1.0.0",
+  "description": "Simple App Chat With Terminal Using NodeJS and Socket.io",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arikun | RiiHaxor",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "socket.io": "^4.0.1",
+    "socket.io-client": "^4.0.1"
+  }
+}
